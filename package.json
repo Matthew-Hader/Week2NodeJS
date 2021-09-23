@@ -1,0 +1,24 @@
+{
+  "name": "matthew-hader-practice",
+  "version": "1.0.0",
+  "description": "A practice package file to familiarize myself with the process",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Matthew-Hader/Week2NodeJS.git"
+  },
+  "author": "Matthew Hader",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Matthew-Hader/Week2NodeJS/issues"
+  },
+  "homepage": "https://github.com/Matthew-Hader/Week2NodeJS#readme",
+  "dependencies": {
+    "async": "^3.2.1",
+    "express": "^4.17.1",
+    "request": "^2.88.2"
+  }
+}
